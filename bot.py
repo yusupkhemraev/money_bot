@@ -32,7 +32,7 @@ except requests.exceptions.ConnectionError:
     usd = 'В соединени отказано!'
     eur = 'В соединени отказано!'
 
-TOKEN = '1925943055:AAHbhbEc17hcrhYIoBRb66N92Zu0B1iAc2Y'
+TOKEN = 'token'
 
 
 bot = Bot(token=TOKEN)
